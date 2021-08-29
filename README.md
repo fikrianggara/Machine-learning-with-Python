@@ -1,4 +1,4 @@
-# Pengembangan_Machine_learning
+# Machine learning Development
 
 repository ini berisikan kode kode implementasi machine learning menggunakan python. kode ini berfokus pada implementasi Neural network.
 beberapa implementasi neural network digunakan pada:
